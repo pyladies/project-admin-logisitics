@@ -21,3 +21,4 @@ Name | GitHub Handle | PyLadies Chapter | Team Role |
 | <Need another> | <Need another>  | PyLadies <?> | Co-Lead |
 | Jackie Kazil | @jackiekazil | PyLadies DC | Team member | 
 | Debora Azevedo | @ deboraazevedo | PyLadies Brasil/Natal | Team member |
+| Tereza Iofciu | @ terezaif | PyLadies Hamburg | Team member |
