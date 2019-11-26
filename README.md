@@ -22,3 +22,7 @@ Name | GitHub Handle | PyLadies Chapter | Team Role |
 | Jackie Kazil | @jackiekazil | PyLadies DC | Team member | 
 | Debora Azevedo | @ deboraazevedo | PyLadies Brasil/Natal | Team member |
 | Tereza Iofciu | @ terezaif | PyLadies Hamburg | Team member |
+
+# Contributing
+
+If you would like to join, open an issue requesting to join using the [contributor template](https://github.com/pyladies/project-admin-logistics/issues/new/choose).
