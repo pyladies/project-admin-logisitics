@@ -18,7 +18,7 @@ do we have requirement about chapter proximities with another chapter? (i.e. if 
 Name | GitHub Handle | PyLadies Chapter | Team Role |
 | --| --| --| --|
 | Mariatta | @Mariatta  | PyLadies Vancouver | Co-Lead / PyLadies Admin|
-| <Need another> | <Need another>  | PyLadies <?> | Co-Lead |
+| Lorena Mesa | @lorenanicole  | PyLadies Chicago | Team Member / PyLadies Admin |
 | Jackie Kazil | @jackiekazil | PyLadies DC | Team member | 
 | Debora Azevedo | @ deboraazevedo | PyLadies Brasil/Natal | Team member |
 | Tereza Iofciu | @ terezaif | PyLadies Hamburg | Team member |
