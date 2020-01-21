@@ -22,7 +22,7 @@ Please fill in the following form to the best of your knowledge, and keep in min
 
 - `City of new chapter. PyLadies recommends a city specific focus to prevent name collision. If you want to start a chapter with a different affiliation please specify the location and why you are choosing this.`
 - `Country of new chapter`
-- `Desired namespace for chapter, this will be for the email and subdomain setup like [sf@pyladies.com] ahd it should be as close to the chapter name as possible. Remember, in Python, explicit is better than implicit!`
+- `Desired namespace for chapter, this will be for the email and subdomain setup like [sf@pyladies.com] and it should be as close to the chapter name as possible. Remember, in Python, explicit is better than implicit!`
 - `What language(s) will the chapter primarily speak?`
 
 ## Programming
