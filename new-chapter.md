@@ -7,7 +7,7 @@ Please fill in the following form to the best of your knowledge, and keep in min
 - `your name`
 - `what are your pronouns (e.g. she/her, they/them)?`
 - `your contact email`
-- `username on PyLadies slack (You can join at https://slackin.pyladies.com/.)`
+- `username on PyLadies slack (Register first at https://slackin.pyladies.com/.)`
 - `Who are your co-organizer(s) please include their name and pronouns? We advise having at least 2 organizers a chapter to start.`
 - `What are your co-organizer(s) emails?`
 - `What are your co-organizer(s) PyLadies Slack user names?`
