@@ -78,13 +78,17 @@ What are the roles of a PyLadies chapter leader?
 
 - as a chapter they can use PyLadies logo and name
 
-- they will have @pyladies.com email address
+- they will be given @pyladies.com email address
 
 - they can have pyladies subdomain
+
+- their chapter will be listed under PyLadies locations page
 
 - access to organizers channel in slack
 
 - access to organizers resources
+
+- their chapter can join PSF's Meetup Pro network
 
 Other privileges:
 
