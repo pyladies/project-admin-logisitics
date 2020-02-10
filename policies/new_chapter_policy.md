@@ -27,7 +27,7 @@ Timeline: I'd like to have this new process in place by end of January 2020.
 
 ## 1. Why is this policy necessary?
 
-- We had many inactive chapters, that never took off since they were created
+- We had many inactive chapters, that never took off since they were created.
 
 - We find chapters with more than one organizers to be more successful, and therefore it
   should be part of a minimum requirement.
@@ -56,7 +56,7 @@ What are the roles of a PyLadies chapter leader?
 
 - share news from global PyLadies leadership to their members
 
-- organize at least one meetup per year (?)
+- organizes or supports co-organization of at least one meetup per year
 
 - not necessarily be the one creating content/giving talk/workshop. 
 
@@ -64,37 +64,46 @@ What are the roles of a PyLadies chapter leader?
 
 - notify global PyLadies leadership of changes in organizers (e.g. if they have new organizers, or if an organizer stepped down)
 
+- use the chapter's @pyladies.com email address to conduct their business. (e.g. for
+  any communication with their members, for creating meetup and social media accounts.)
+  
 ### 3. What are minimum responsibilities and expectation when someone requested a PyLadies chapter? 
 
-- at least 2 co-organizers
+- Prior to requesting a chapter, prospective organizers are advised to join 
+  [PyLadies Slack](https://slackin.pyladies.com), and post any questions related
+  running a chapter in the `#prospective-prganizers` channel. 
 
-- preferably run by women
+- A chapter should have at least 2 co-organizers at any time to help prevent
+  organizer burnout, and to ensure the community can continue when one needs
+  to take a break or to step down.
 
-- must be local (city-based). e..g Vancouver instead of BC or Canada
+- A chapter is preferably run by women.
 
-- namespace must be descriptive (`kuala-lumpur` instead of `kl`)?
+- A chapter must be local (city-based). e..g Vancouver instead of BC or Canada.
+  A city's chapter is allowed when deemed appropriate, and will be approved
+  on case-by-case basis.
+  
+- The chapter's namespace must be descriptive, e.g. `kuala-lumpur` instead of `kl`
 
 ### 4. What kind of support can new chapter leaders expect from Global PyLadies leadership team?
 
-- as a chapter they can use PyLadies logo and name
+- As an official PyLadies chapter, they can use PyLadies logo and name, conforming
+  to [PyLadies Trademark Policy](https://github.com/pyladies/pyladies-assets#pyladies-assets)
 
-- they will be given @pyladies.com email address
+- They will be given @pyladies.com email address
 
-- they can have pyladies subdomain
+- They can have pyladies subdomain
 
-- their chapter will be listed under PyLadies locations page
+- Their chapter will be listed under PyLadies locations page
 
-- access to organizers channel in slack
+- Access to the #organizers channel in Slack
 
-- access to organizers resources
+- Access to #organizers-resources channel in Slack
 
-- their chapter can join PSF's Meetup Pro network
+- Their chapter can join the PSF's Meetup Pro network
 
-Other privileges:
+- Members of their chapter can participate and vote in PyLadies Board of Directors Elections
 
-- a chapter gets one vote in PyLadies board elections
-
-- ???
 
 ## 5. What questions do we ask in our form?
 
@@ -119,11 +128,25 @@ Note: Form questions are being worked in [Issue #12](https://github.com/pyladies
 Prospective organizers will submit new chapter requests via a Google Form.
 
 PyLadies admin & logistics team members will review new chapter requests once
-per month. The schedule is TBD.
+per month. For this purpose, the team members involved in review process are those listed
+in [project-admin-logistics team](https://github.com/pyladies/project-admin-logisitics#team).
+
+### Review schedule
+
+From the 1st to the 10th of each month, team members will review chapter request
+from the previous month only. For example, from the 1st of 10th of April 2020,
+we will review new chapter requests dated from March 1st to 31st 2020.
+
+Decisions for the previous month's chapter requests shall be formed by the 10th
+of each month.
+
+Approved chapters will be created and activated by 15th of each month. The project's
+team lead will create the chapter's email address by this date. Chapter organizers will receive email
+notification as soon as email address has been created.
 
 ## 7. For accountability, how do we document new chapter creations?
 
-PyLadies admin and logistics will keep track of the following info.
+The team will keep track of the following info:
 
 1. who requested the new chapter
 
@@ -134,7 +157,26 @@ PyLadies admin and logistics will keep track of the following info.
 4. date we activate the chapter
 
 
+## 8. When will this new policy take place.
+
+We propose for this policy to take place starting March 1, 2020. We will be creating
+the necessary forms, so prospective organizers can begin to request new chapter
+starting on March 1, 2020.
+
 ## 8. Questions and comments about this proposal
 
-Please comment on this pull request.
+If any PyLadies member and organizers have questions or concerns about this proposal,
+please raise them by [opening an issue here](https://github.com/pyladies/project-admin-logisitics/issues).
+Questions and comments are accepted from now until February 25th, 2020 AoE.
+
+Unless we receive strong objection to this proposal by February 25th, 2020 AoE,
+we will consider this proposal to be accepted and will take effect starting
+March 1st, 2020.
+
+## 9. Future changes to this policy
+
+After this policy has taken affect, PyLadies Board of Directors reserve the right
+to accept changes to this policy.
+
+
 
