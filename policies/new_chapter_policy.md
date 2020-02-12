@@ -150,17 +150,17 @@ notification as soon as email address has been created.
 
 2. PyLadies Slack Bot will post the form response into #feed-new-chapter Slack channel
 
-3. Each reviewers will read give vote by adding either :thumbsup: or :thumbsdown: reaction to the Slack post.
+3. Each reviewers will read the requests and give vote by adding either :thumbsup: or :thumbsdown: reaction to the Slack post.
 
-4. If there is a :thumbsup: reaction made by one of the review team members, PyLadies Slack bot records the member name, and timestamp.
+4. If there is a :thumbsup: reaction made by one of the review team members, PyLadies Slack bot records the member name, and the timestamp.
 
 5. If there is a :thumbsdown: reaction made by one of the review team members, PyLadies Slack bot will prompt for a reason. Team members will follow up.
 
 6. If :thumbsup: or :thumbsdown: reaction was not made by review team member, PyLadies Slack bot will not do anything.
 
-7. After the 10th of the month and before the 15th of the month, team lean will manually check the spreadsheet to see which ones are approved and create the chapters.
+7. After the 10th of the month and before the 15th of the month, team lead will manually check the spreadsheet to see which ones are approved and create the chapters.
 
-8. (To be determined) Ideally we should also record the summary of new chapters approval to GitHub each month.
+8. (To be determined) Ideally we should also record the summary of new chapters approvals to GitHub each month.
 
 PyLadies Slack bot requires a Zapier account.
 
