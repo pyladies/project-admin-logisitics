@@ -158,11 +158,13 @@ notification as soon as email address has been created.
 
 6. If :thumbsup: or :thumbsdown: reaction was not made by review team member, PyLadies Slack bot will not do anything.
 
-7. After the 10th of the month and before the 15th of the month, team lead will manually check the spreadsheet to see which ones are approved and create the chapters.
+7. After the 10th of the month and before the 15th of the month,
+  [team lead](https://github.com/pyladies/project-admin-logisitics#team) will manually check the spreadsheet to
+  see which ones are approved, and create the chapters.
 
 8. (To be determined) Ideally we should also record the summary of new chapters approvals to GitHub each month.
 
-PyLadies Slack bot requires a Zapier account.
+PyLadies Slack bot requires a Zapier account. The account was created on February 12, 2020.
 
 ## 7. For accountability, how do we document new chapter creations?
 
