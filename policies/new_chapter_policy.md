@@ -71,7 +71,7 @@ What are the roles of a PyLadies chapter leader?
 
 - Prior to requesting a chapter, prospective organizers are advised to join 
   [PyLadies Slack](https://slackin.pyladies.com), and post any questions related
-  running a chapter in the `#prospective-prganizers` channel. 
+  running a chapter in the `#prospective-organizers` channel. 
 
 - A chapter should have at least 2 co-organizers at any time to help prevent
   organizer burnout, and to ensure the community can continue when one needs
@@ -143,6 +143,28 @@ of each month.
 Approved chapters will be created and activated by 15th of each month. The project's
 team lead will create the chapter's email address by this date. Chapter organizers will receive email
 notification as soon as email address has been created.
+
+### Review mechanics
+
+1. When prospective organizers filled in the new chapter request form, their response is stored as a row in google spreadsheet
+
+2. PyLadies Slack Bot will post the form response into #feed-new-chapter Slack channel
+
+3. Each reviewers will read the requests and give vote by adding either :thumbsup: or :thumbsdown: reaction to the Slack post.
+
+4. If there is a :thumbsup: reaction made by one of the review team members, PyLadies Slack bot records the member name, and the timestamp.
+
+5. If there is a :thumbsdown: reaction made by one of the review team members, PyLadies Slack bot will prompt for a reason. Team members will follow up.
+
+6. If :thumbsup: or :thumbsdown: reaction was not made by review team member, PyLadies Slack bot will not do anything.
+
+7. After the 10th of the month and before the 15th of the month,
+  [team lead](https://github.com/pyladies/project-admin-logisitics#team) will manually check the spreadsheet to
+  see which ones are approved, and create the chapters.
+
+8. (To be determined) Ideally we should also record the summary of new chapters approvals to GitHub each month.
+
+PyLadies Slack bot requires a Zapier account. The account was created on February 12, 2020.
 
 ## 7. For accountability, how do we document new chapter creations?
 
