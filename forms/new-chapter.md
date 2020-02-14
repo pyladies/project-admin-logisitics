@@ -33,6 +33,6 @@ Please fill in the following form to the best of your knowledge, and keep in min
 - `Do you need mentorship from chapters in cities near by? If so which chapters?`
 
 ## Agreement
-
+git 
 - `I agree to await for official approval from PyLadies before starting to build resources online.`
 - `I confirm that I read and understood our data privacy policy: PyLadies is committed to ensuring the security and protection of the personal information that we process, and to provide a compliant and consistent approach to data protection. We require the above information for PyLadies chapter management, internal record keeping and other related functions for managing the PyLadies brand that requires organizers input.`
