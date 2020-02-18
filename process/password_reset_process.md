@@ -10,7 +10,9 @@ This documentation is for PyLadies Admin leads (those with administrative access
 
 - Lorena Mesa
 
-- Debora Azevedo
+- Débora Azevedo
+
+- Bethany Garcia
 
 ## How to reset password?
 
