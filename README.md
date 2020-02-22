@@ -26,3 +26,12 @@ Name | GitHub Handle | PyLadies Chapter | Team Role |
 # Contributing
 
 If you would like to join, open an issue requesting to join using the [contributor template](https://github.com/pyladies/project-admin-logistics/issues/new/choose).
+
+# Useful links
+
+- [Password Reset Form](https://forms.gle/AhnaDGbTAaBYdgUL8) - fill in this form if you lost password to your `chapter@pyladies.com` email address
+
+- [Chapter Organizer Registrattion Form](https://forms.gle/cDegKej3JojdnQ6JA) - fill in this form if you're a new/current organizer, or if you're stepping
+  down from your role
+  
+- [Chapter Organizers Directory](https://docs.google.com/spreadsheets/d/14--69LWAGhF_DA8iPGRAOoh7GMJ3qFmcMQwASWqPo54/edit?usp=sharing) - Listing of current PyLadies organizers. Any PyLadies organizer can view this by logging in using `{chapter}@pyladies.com` email address.
