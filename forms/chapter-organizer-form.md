@@ -30,7 +30,7 @@ organizers, as a Google Sheets. The Google Sheets can be viewed
 by anyone who logged in using the `{chapter}@pyladies.com` account.
 
 If you are a chapter organizer and would like access to this data,
-you can go to "(url tbd)" and log in using your chapter's `{chapter@pyladies.com}`
+you can go to [here](https://docs.google.com/spreadsheets/d/14--69LWAGhF_DA8iPGRAOoh7GMJ3qFmcMQwASWqPo54/edit?usp=sharing) and log in using your chapter's `{chapter@pyladies.com}`
 email address.
 
 ## Questions and concerns?
