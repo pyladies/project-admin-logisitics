@@ -6,7 +6,7 @@
 | Version  | 1.0                                        |
 | Title    | New PyLadies Chapter Policy                |
 | Authors  | Mariatta <mailto:mariatta@pyladies.com>    |
-| Status   | Draft                                      |
+| Status   | Active                                     |
 
                                 
 # TL;DR:
@@ -20,8 +20,6 @@ The policy should answer the following questions
 5. What questions do we ask in our form?
 6. How do we review new chapter requests?
 7. For accountability, how do we document new chapter creations?
-
-Timeline: I'd like to have this new process in place by end of January 2020.
 
 # Details
 
@@ -181,24 +179,16 @@ The team will keep track of the following info:
 
 ## 8. When will this new policy take place.
 
-We propose for this policy to take place starting March 1, 2020. We will be creating
-the necessary forms, so prospective organizers can begin to request new chapter
-starting on March 1, 2020.
+This policy takes place starting March 1, 2020.
 
 ## 8. Questions and comments about this proposal
 
-If any PyLadies member and organizers have questions or concerns about this proposal,
-please raise them by [opening an issue here](https://github.com/pyladies/project-admin-logisitics/issues).
-Questions and comments are accepted from now until February 25th, 2020 AoE.
+Please raise them by [opening an issue here](https://github.com/pyladies/project-admin-logisitics/issues).
 
-Unless we receive strong objection to this proposal by February 25th, 2020 AoE,
-we will consider this proposal to be accepted and will take effect starting
-March 1st, 2020.
 
 ## 9. Future changes to this policy
 
-After this policy has taken affect, PyLadies Board of Directors reserve the right
-to accept changes to this policy.
+PyLadies Board of Directors reserve the right to accept changes to this policy.
 
 
 
