@@ -1,6 +1,15 @@
 # PyLadies Request to Start Chapter Form
 
-Please fill in the following form to the best of your knowledge, and keep in mind that PyLadies is managed on a volunteer basis and the approval or feedback on the application might take a while. We will contact you as soon as we can.
+Please fill in the following form if you would like to lead a PyLadies chapter in your area.
+
+You can also fill in this form if there is an inactive chapter in your area, and you would
+like to step up and take it over.
+
+Keep in mind that PyLadies is managed by volunteers and the approval or feedback on the
+application might take a while. We try our best to review this once per month, however this is not guaranteed.
+
+We recommend that you first join us in Slack and ask questions about starting a new
+chapter in https://slackin.pyladies.com/ #prospective-organizers channel!
 
 ## Organizer
 
@@ -20,9 +29,12 @@ Please fill in the following form to the best of your knowledge, and keep in min
 
 ## Chapter Information
 
+- `Desired namespace for chapter, this will be for the email and subdomain setup like [sf@pyladies.com] and it should be as close to the chapter name as possible. Remember, in Python, explicit is better than implicit!`
+- `Is this a new chapter, or an existing (inactive) one?` (options)
+  - new chapter
+  - existing/inactive chapter
 - `City of new chapter. PyLadies recommends a city specific focus to prevent name collision. If you want to start a chapter with a different affiliation please specify the location and why you are choosing this.`
 - `Country of new chapter`
-- `Desired namespace for chapter, this will be for the email and subdomain setup like [sf@pyladies.com] and it should be as close to the chapter name as possible. Remember, in Python, explicit is better than implicit!`
 - `What language(s) will the chapter primarily speak?`
 
 ## Programming
