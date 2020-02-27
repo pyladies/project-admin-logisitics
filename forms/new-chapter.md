@@ -39,10 +39,12 @@ chapter in https://slackin.pyladies.com/ #prospective-organizers channel!
 
 ## Programming
 
-- `When do you plan to have your first event?`
 - `What type of event(s) do you plan to run?`
+- `How many events are you planning to do per year?`
+- `When do plan to have your first event?`
+- `What are your plans for the rest of the year?`
 - `Do you have any specific support requests? For example, does your community speak a language other than English and will you want translation support?`
-- `Do you need mentorship from chapters in cities near by? If so which chapters?`
+- `Have you received mentorship from existing chapter organizers? If not, please join us in Slack under #prospective-organizers channel`
 
 ## Agreement
 
