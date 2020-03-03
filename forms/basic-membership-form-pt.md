@@ -8,10 +8,10 @@ Por favor, complete as seguintes perguntas para se registrar como membro básico
 Este formulário também está disponível em outros idiomas:
 
 - [Inglês](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-en.md)
-- Espanhol: a ser traduzido
+- [Espanhol](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
+- [Russo](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - Chinês (Mandarim): a ser traduzido
 - Francês: a ser traduzido
-- Russo: a ser traduzido
 
 ## Opção de associação do PyLadies
     

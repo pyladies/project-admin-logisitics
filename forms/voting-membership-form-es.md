@@ -4,11 +4,13 @@ Complete las preguntas adicionales para registrarse como miembro con derecho a v
 
 Este formulario también está disponible en otros idiomas:
 
+- [Inglés](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-en.md)
 - [Portugués](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
-- [Español] (https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
+- [Español](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
+- [Ruso](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
 - Chino (mandarín): Traducción pendiente
 - Francés: Traducción pendiente
-- Ruso: Traducción pendiente
+
 
 ## Información de miembro
     

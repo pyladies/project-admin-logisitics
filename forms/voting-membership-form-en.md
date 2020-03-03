@@ -5,10 +5,10 @@ Please complete the additional questions to be registered as a voting member of 
 This form is also available in other languages:
 
 - [Portuguese](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
-- Spanish: to be translated
+- [Spanish](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
+- [Russian](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
 - Chinese (Mandarin): to be translated
 - French: to be translated
-- Russian: to be translated
 
 ## Member Information
 

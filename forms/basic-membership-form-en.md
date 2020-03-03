@@ -5,10 +5,10 @@ Please complete the following questions to be registered as a basic (non voting)
 This form is also available in other languages:
 
 - [Portuguese](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
-- Spanish: to be translated
+- [Spanish](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
+- [Russian](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
 - Chinese (Mandarin): to be translated
 - French: to be translated
-- Russian: to be translated
 
 ## PyLadies Membership Option
     
