@@ -14,54 +14,61 @@ Este formulario también está disponible en otros idiomas:
 
 ## Información de miembro
     
-   Nombre:
-   Pronombres
-         Opciones: ella, él, elle, ve / ver / vis
-   Email
-   Usuario Slack PyLadies
-   Usuario de GitHub [Opcional]:
-   Handle de Twitter [Opcional]:
-   Idiomas:
-         Opciones [Opción múltiple]: Lista -  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+- Nombre:
+ 
+- Pronombres
+  Opciones: ella, él, elle, ve / ver / vis
+  
+- Email
+  
+- Usuario Slack PyLadies
+  
+- Usuario de GitHub [Opcional]:
+ 
+- Handle de Twitter [Opcional]:
+   
+- Idiomas:
+         
+  Opciones [Opción múltiple]: Lista de https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
          
 - Ocupación:
-
+  
   Opciones [Selección única]:
   
-         Ingeniero de Software / Desarrollador
-         Data  Science
-         Investigador/a / Científico/a
-         Educador/a
-         Gerente de proyecto
-         Director/a de Ingeniería
-         Gerente de proyectos técnicos
-         Diseñador/a de UI / UX
-         Analista de datos
-         Consultor/a
-         Estudiante
-         Retirado/a
-         Desempleado/a
-         Otro: [Especifique]
+    Ingeniero de Software / Desarrollador
+    Data  Science
+    Investigador/a / Científico/a
+    Educador/a
+    Gerente de proyecto
+    Director/a de Ingeniería
+    Gerente de proyectos técnicos
+    Diseñador/a de UI / UX
+    Analista de datos
+    Consultor/a
+    Estudiante
+    Retirado/a
+    Desempleado/a
+    Otro: [Especifique]
    
 - Industria:
   
-  Opciones: 
+  Opciones [Selección única]: 
          
-         Agricultura, silvicultura, pesca y caza minería
-         Construcción de servicios públicos
-         Informática y Electrónica Fabricación Otros Fabricación
-         Venta al por mayor
-         Publicación de transporte y almacenaje
-         Telecomunicaciones de software
-         Servicios de difusión de información y procesamiento de datos
-         Otra información Industria Finanzas y seguros
-         Bienes Raíces, Alquiler y Arrendamiento Colegio, Universidad y Educación de Adultos
-         Educación primaria / secundaria (K-12) Otra industria educativa
-         Cuidado de la salud y asistencia social Arte, entretenimiento y recreación
-         Hotel y Servicios de Alimentos Gobierno y Administración Pública
-         Servicios Legales Servicios Científicos o Técnicos
-         Ama de casa militar
-         Religiosa Otra Industria
+    Agricultura, silvicultura, pesca y caza minería
+    Construcción de servicios públicos
+    Informática y Electrónica Fabricación Otros Fabricación
+    Venta al por mayor
+    Publicación de transporte y almacenaje
+    Telecomunicaciones de software
+    Servicios de difusión de información y procesamiento de datos
+    Otra información Industria Finanzas y seguros
+    Bienes Raíces, Alquiler y Arrendamiento Colegio, Universidad y Educación de Adultos
+    Educación primaria / secundaria (K-12) Otra industria educativa
+    Cuidado de la salud y asistencia social Arte, entretenimiento y recreación
+    Hotel y Servicios de Alimentos Gobierno y Administración Pública
+    Servicios Legales Servicios Científicos o Técnicos
+    Ama de casa militar
+    Religiosa Otra Industria
          
 ## Membresía de Capítulo de PyLadies
 
@@ -121,4 +128,4 @@ Este formulario también está disponible en otros idiomas:
         
 ## Autorización para compartir información
 
--  Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.
+- Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.

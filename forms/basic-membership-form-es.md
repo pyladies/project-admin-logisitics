@@ -21,25 +21,25 @@ Este formulario también está disponible en otros idiomas:
 ## Información de miembro
     
     Nombre:
-    Pronombres
-             Opciones: ella, él, elle, ve / ver / vis
+    Pronombres
+        Opciones: ella, él, elle, ve / ver / vis
     Email
-    Usuario Slack PyLadies
-    Usuario de GitHub [Opcional]:
-    Handle de Twitter [Opcional]:
-    Idiomas:
-             Opciones [Opción múltiple]: Lista -  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+    Usuario Slack PyLadies
+    Usuario de GitHub [Opcional]:
+    Handle de Twitter [Opcional]:
+    Idiomas:
+        Opciones [Opción múltiple]: Lista -  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
          
 ## Membresía de Capítulo PyLadies
 
     Capítulo PyLadies:
-            Opciones: https://docs.google.com/spreadsheets/d/12mB273wwEe9h9svNRfGR22rQAMjO2hn_lahWzMT-zdY/edit?usp=sharing
+        Opciones: https://docs.google.com/spreadsheets/d/12mB273wwEe9h9svNRfGR22rQAMjO2hn_lahWzMT-zdY/edit?usp=sharing
 
 ## Newsletter de PyLadies 
 
     ¿Desea recibir el boletín electrónico de PyLadies?
-             Opciones: sí, no
+        Opciones: sí, no
 
 ## Autorización para compartir información
         
-        Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.
+    Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.
