@@ -11,7 +11,7 @@ Translated by: Volodymyr Kirichinets
 - [Испанский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
 - [португальский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
 - Китайский (Мандарин) (Mandarim)
-- Французский
+- [Французский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-fr.md)
 
 ## Информация об участнике сообщества 
 

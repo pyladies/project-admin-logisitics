@@ -8,7 +8,7 @@ This form is also available in other languages:
 - [Spanish](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
 - [Russian](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
 - Chinese (Mandarin): to be translated
-- French: to be translated
+- [French](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-fr.md)
 
 ## Member Information
 

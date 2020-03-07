@@ -11,7 +11,7 @@ Translated by: Volodymyr Kirichinets
 - [Испанский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - [португальский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
 - Китайский (Мандарин) (Mandarin)
-- Французский
+- [Французский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-fr.md)
 
 ## Опции членства в PyLadies
     

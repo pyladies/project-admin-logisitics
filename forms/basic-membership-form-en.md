@@ -8,7 +8,7 @@ This form is also available in other languages:
 - [Spanish](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - [Russian](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
 - Chinese (Mandarin): to be translated
-- French: to be translated
+- [French](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-fr.md)
 
 ## PyLadies Membership Option
     
